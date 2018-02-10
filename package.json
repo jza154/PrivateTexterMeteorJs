@@ -17,5 +17,8 @@
     "ionic-scripts": "^1.3.5",
     "meteor-node-stubs": "~0.2.0",
     "moment": "^2.12.0"
+  },
+  "devDependencies": {
+    "meteor-azure": "^2.1.0-rc.1"
   }
 }

@@ -3,14 +3,14 @@
     "siteName": "chatchatbox",
     "resourceGroup": "whatsapp",
     "subscriptionId": "98dd9624-9d22-49cf-8fdb-8ad19fc66eb4",
-    "tenantId": "james_z17hotmail.onmicrosoft.com",
+    "tenantId": "jamesz17hotmail.onmicrosoft.com",
     "deploymentCreds": {
-      "username": "chatchatbox\jza154",
+      "username": "jza154",
       "password": "017017017Ok"
     },
     "envVariables": {
       "ROOT_URL": "https://chatchatbox.azurewebsites.net",
-      "MONGO_URL": "MongoDB URL"
+      "MONGO_URL": "mongodb://james_z17:123456@ds131258.mlab.com:31258/whatsapp"
     }
   }
 
