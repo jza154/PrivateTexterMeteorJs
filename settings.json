@@ -5,8 +5,8 @@
     "subscriptionId": "98dd9624-9d22-49cf-8fdb-8ad19fc66eb4",
     "tenantId": "jamesz17hotmail.onmicrosoft.com",
     "deploymentCreds": {
-      "username": "jza154",
-      "password": "017017017Ok"
+      "username": "",
+      "password": ""
     },
     "envVariables": {
       "ROOT_URL": "https://chatchatbox.azurewebsites.net",
